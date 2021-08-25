@@ -6,7 +6,6 @@
 # for py_game surfaces
 import pygame, math
 # cv2 for video and image manipulation
-import cv2
 # numpy for array manipulation
 import numpy as np
 # for file dialogue box
